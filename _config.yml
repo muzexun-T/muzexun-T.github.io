@@ -1,4 +1,4 @@
 #building setting
 markdown: Kramdown
-theme: cayman
+theme: jekyll-theme-cayman
 #remote_theme: THEME-NAME
